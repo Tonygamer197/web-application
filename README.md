@@ -20,8 +20,6 @@ This repository contains a **modern and responsive login page** built using **HT
 
 ## 📷 Screenshots
 
-![Login Page Preview](https://via.placeholder.com/800x400.png?text=Login+Page+Preview)  
-*Login page preview (Replace with an actual screenshot after deployment).*
+![Login   Registration Form](https://github.com/user-attachments/assets/9090dd9f-c301-4fc2-b9d9-1e0de8eed118)
 
-## 📂 Folder Structure
 
